@@ -2,6 +2,17 @@
 
 > **A data analytics project exploring worldwide cancer patient data from 2015 to 2024 using Python.**
 
+### This is How the Dataset Looks:
+
+![data_img](images/data_img.png)
+
+
+
+#### Comparison of Risk Factors with Cancer Secverity Score
+
+![risk_factors_img](images/risk_factors_img.png)
+
+
 ---
 
 ## 📑 Project Overview
@@ -116,3 +127,4 @@ Global-Cancer-Trends-EDA/
 📧 [pahuldeepsingh531@gmail.com](mailto:pahuldeepsingh531@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/pahuldeepsing/)  
 🐙 [GitHub](https://github.com/pahul1712)
+
