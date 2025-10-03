@@ -83,3 +83,36 @@ pip install -r requirements.txt
 # 4️⃣ Launch the notebook
 jupyter notebook Global_Cancer_Trends_2015_2024.ipynb
 ```
+
+---
+
+
+## 📁 Repository Structure
+
+```
+Global-Cancer-Trends-EDA/
+│── Global_Cancer_Trends_2015_2024.ipynb   # Main analysis notebook
+│── global_cancer_patients_2015_2024.csv   # Dataset
+│── requirements.txt                       # Python dependencies
+│── .gitignore                             # Ignore venv, cache, etc.
+└── README.md                              # Project documentation
+```
+
+---
+
+## 🔮 Future Work
+
+- Build predictive models for cancer case trends
+- Incorporate socio-economic and healthcare spending data
+- Create an interactive dashboard (Power BI / Tableau / Streamlit)
+
+---
+
+## 👨‍💻 Author
+
+**Pahuldeep Singh Dhingra**  
+🎓 M.S. in Data Science & Analytics @ Florida Atlantic University  
+
+📧 [pahuldeepsingh531@gmail.com](mailto:pahuldeepsingh531@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/pahuldeepsing/)  
+🐙 [GitHub](https://github.com/pahul1712)
